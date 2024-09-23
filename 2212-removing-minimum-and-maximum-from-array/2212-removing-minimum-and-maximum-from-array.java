@@ -4,9 +4,10 @@ class Solution {
         int len = nums.length;
         for(int i = 0; i<len; i++)
         {
-            if(nums[min]>nums[i])
+            int n = nums[i];
+            if(nums[min]>n)
                 min = i;
-            if(nums[max]<nums[i])
+            if(nums[max]<n)
                 max = i;
         }
         int s = Math.min(min,max);
