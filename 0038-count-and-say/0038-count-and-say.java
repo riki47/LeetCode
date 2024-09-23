@@ -30,7 +30,8 @@ class Solution {
         StringBuilder sb = new StringBuilder();
         for(int i = 0; i<l1.size(); i++)
         {
-            sb.append(l1.get(i)[1] + "" + l1.get(i)[0]);
+            sb.append(l1.get(i)[1]);
+            sb.append(l1.get(i)[0]);
         }
         return sb;
     }
