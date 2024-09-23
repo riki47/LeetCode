@@ -14,8 +14,8 @@ class Solution {
         int bi = Math.max(min,max);
         
         int b = 1 + bi;
-        int e = len - s;
+        int e = Math.min(b,len - s);
         int m1 = s+1 + len- bi;
-        return Math.min(b,Math.min(e,m1));
+        return Math.min(m1,e);
     }
 }
