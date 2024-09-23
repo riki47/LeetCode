@@ -13,8 +13,8 @@ class Solution {
         int s = Math.min(min,max);
         int bi = Math.max(min,max);
         
-        int b = s + 1 + bi-s;
-        int e = len-bi + bi-s;
+        int b = 1 + bi;
+        int e = len - s;
         int m1 = s+1 + len- bi;
         return Math.min(b,Math.min(e,m1));
     }
