@@ -45,9 +45,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/riki47/LeetCode/tree/master/0043-multiply-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/riki47/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [2755-extra-characters-in-a-string](https://github.com/riki47/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/riki47/LeetCode/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/riki47/LeetCode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
