@@ -10,10 +10,12 @@ class Solution {
             if(nums[max]<nums[i])
                 max = i;
         }
-        int b = Math.min(min,max)+1 + Math.abs(max-min);
-        int e = Math.min(len-min,len-max) + Math.abs(min-max);;
-        int m1 = (min+1) + (len-max);
-        int m2 = (len-min) + (max+1);
-        return Math.min(b,Math.min(e,Math.min(m1,m2)));
+        int s = Math.min(min,max);
+        int bi = Math.max(min,max);
+        
+        int b = s + 1 + bi-s;
+        int e = len-bi + bi-s;
+        int m1 = s+1 + len- bi;
+        return Math.min(b,Math.min(e,m1));
     }
 }
