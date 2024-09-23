@@ -26,18 +26,16 @@
 // }
 class Solution {
     public int firstMissingPositive(int[] nums) {
-        int min = 1;
         HashSet<Integer> h1 = new HashSet<>();
         for(int i : nums)
         {   
             h1.add(i);
         }
-        min = 1;
-        while(true)
+        for(int i = 1;i<Integer.MAX_VALUE;i++)
         {
-            if(!h1.contains(min))
-                return min;
-            min++;
+            if(!h1.contains(i))
+                return i;
         }
+        return -1;
     }
 }
