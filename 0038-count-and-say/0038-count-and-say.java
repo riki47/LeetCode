@@ -3,12 +3,12 @@ class Solution {
         StringBuilder sb = new StringBuilder("1");
         for(int i = 0;i<n-1;i++)
         {
-            ArrayList<int[]> l1 = rle(sb);
-            sb = rlestr(l1);
+            ArrayList<int[]> l1 = rle(sb);       //to convert into pairs
+            sb = rlestr(l1);                     //to convert into string
         }
         return sb.toString();
     }
-    public static ArrayList<int[]> rle(StringBuilder sb)
+    public static ArrayList<int[]> rle(StringBuilder sb) //to convert into pairs
     {
         ArrayList<int[]> a1 = new ArrayList<>();
         a1.add(new int[]{sb.charAt(0)-'0',1});
@@ -25,7 +25,7 @@ class Solution {
         }
         return a1;
     }
-    public StringBuilder rlestr(ArrayList<int[]> l1)
+    public StringBuilder rlestr(ArrayList<int[]> l1)    //to convert into string
     {
         StringBuilder sb = new StringBuilder();
         for(int i = 0; i<l1.size(); i++)
