@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/riki47/LeetCode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/riki47/LeetCode/tree/master/0043-multiply-strings) |
 ## Simulation
 |  |
@@ -82,5 +83,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/riki47/LeetCode/tree/master/0002-add-two-numbers) |
 | [0725-split-linked-list-in-parts](https://github.com/riki47/LeetCode/tree/master/0725-split-linked-list-in-parts) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/riki47/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
