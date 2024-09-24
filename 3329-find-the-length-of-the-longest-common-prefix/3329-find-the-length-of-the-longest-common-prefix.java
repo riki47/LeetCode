@@ -1,6 +1,6 @@
 class Solution {
     public int longestCommonPrefix(int[] arr1, int[] arr2) {
-        HashMap <String,Integer> h1 = new HashMap<>();
+        HashSet <String> h1 = new HashSet<>();
         for(int i : arr1)
         {
             String num1s = String.valueOf(i);
@@ -8,7 +8,7 @@ class Solution {
             for(char ch : num1s.toCharArray())
             {
                 pre += ch;
-                h1.put(pre,h1.getOrDefault(pre,0)+1);
+                h1.add(pre);
             }
         }
         int max = 0;
@@ -19,7 +19,7 @@ class Solution {
             for(char ch : num1s.toCharArray())
             {
                 pre += ch;
-                if(h1.containsKey(pre))
+                if(h1.contains(pre))
                     max = Math.max(max,pre.length());
             }
         }
