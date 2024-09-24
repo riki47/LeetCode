@@ -8,6 +8,7 @@ class Solution {
             for(char ch : num1s.toCharArray())
             {
                 pre += ch;
+                if(!h1.contains(pre))
                 h1.add(pre);
             }
         }
