@@ -79,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/riki47/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+## Linked List
+|  |
+| ------- |
+| [0725-split-linked-list-in-parts](https://github.com/riki47/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 <!---LeetCode Topics End-->
