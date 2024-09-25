@@ -23,19 +23,18 @@
 // }
 class Solution {
     public void moveZeroes(int[] nums) {
-        int[] a1 = new int[nums.length];
         int ind = 0;
         for(int i : nums)
         {
             if(i!=0)
             {
-                a1[ind] = i;
+                nums[ind] = i;
                 ind++;
             }
         }
-        for(int i = 0;i<nums.length;i++)
+        for(int i = ind;i<nums.length;i++)
         {
-            nums[i] = a1[i];
+            nums[i] = 0;
         }
     }
 }
