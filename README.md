@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/riki47/LeetCode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/riki47/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/riki47/LeetCode/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/riki47/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/riki47/LeetCode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/riki47/LeetCode/tree/master/0283-move-zeroes) |
 | [1168-duplicate-zeros](https://github.com/riki47/LeetCode/tree/master/1168-duplicate-zeros) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/riki47/LeetCode/tree/master/0053-maximum-subarray) |
 | [2755-extra-characters-in-a-string](https://github.com/riki47/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Math
 |  |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/riki47/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/riki47/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
