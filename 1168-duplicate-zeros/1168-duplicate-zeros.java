@@ -4,15 +4,13 @@ class Solution {
         int idx = 0;
         for(int i  = 0;idx<arr.length;i++)
         {
-            if(arr[i] == 0)
+            newa[idx] = arr[i];
+                idx++;
+            if(arr[i] == 0 && idx<arr.length)
             {
                 newa[idx] = 0;
                 idx++;
             }
-            if(idx>=arr.length)
-                break;
-            newa[idx] = arr[i];
-            idx++;
         }
         System.arraycopy(newa, 0, arr, 0, arr.length);
     }
