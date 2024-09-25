@@ -1,5 +1,4 @@
 class Solution {
-    static int co = 0;
     static boolean check(int mat[][],int row,int col)
     {
         int n = mat.length;
@@ -30,13 +29,6 @@ class Solution {
         if(c == mat.length)
         {
             save(s1,mat);
-            // for(int j = 0;j<mat.length;j++)
-            // {
-            //     for(int i = 0;i<mat.length;i++)
-            //         System.out.print(mat[j][i]);
-            //     System.out.println();
-            // }
-            // System.out.println();
             return;
         }
         if(c < mat.length)
@@ -74,7 +66,6 @@ class Solution {
     }
     public List<List<String>> solveNQueens(int n) {
         int mat[][] = new int[n][n];
-        co = 0;
         List<List<String>> s1 = new ArrayList<>();
         solqueen(mat,0,s1);
         return s1;
