@@ -26,7 +26,8 @@
 // }
 
 class Solution {
-    static void comb(int nums[],ArrayList <Integer> a1,List<List<Integer>> l1,int i)
+    List<List<Integer>> l1 ;
+    void comb(int nums[],ArrayList <Integer> a1,int i)
     {
         if(a1.size() >= nums.length)
         {
@@ -38,14 +39,14 @@ class Solution {
             if(!a1.contains(nums[idx]))
             {
                 a1.add(nums[idx]);
-                comb(nums,a1,l1,i);
+                comb(nums,a1,i);
                 a1.remove(a1.size()-1);
             }
         }
     }
     public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> l1 = new ArrayList<>();
-        comb(nums, new ArrayList<>(),l1,0);
+        l1 = new ArrayList<>();
+        comb(nums, new ArrayList<>(),0);
         return l1;
     }
 }
