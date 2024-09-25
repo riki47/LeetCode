@@ -30,7 +30,8 @@
 // }
 
 class Solution {
-    static void recur(ArrayList<List<Integer>> l1, ArrayList<Integer> a1, int num[], int sum, int idx, int target) 
+    ArrayList<List<Integer>> l1;
+    void recur(ArrayList<Integer> a1, int num[], int sum, int idx, int target) 
     {
         if(sum == target)
         {
@@ -51,15 +52,15 @@ class Solution {
             if(i>=num.length || sum+num[i]>target)break;
 
             a1.add(num[i]);
-            recur(l1,a1,num,sum+num[i],i+1,target);
+            recur(a1,num,sum+num[i],i+1,target);
             a1.removeLast();
         }
     }
     public List<List<Integer>> combinationSum2(int[] candidates, int target) 
     {
         Arrays.sort(candidates);
-        ArrayList<List<Integer>> h1 = new ArrayList<>();
-        recur(h1,new ArrayList<>(),candidates,0,0,target);
-        return h1;
+        l1 = new ArrayList<>();
+        recur(new ArrayList<>(),candidates,0,0,target);
+        return l1;
     }
 }
