@@ -80,21 +80,21 @@ class Solution {
         }
         return true;
     }
-    static void solqueen(int mat[][],int c)
+    static void solqueen(int mat[][],int c,int n)
     {
-        if(c == mat.length)
+        if(c == n)
         {
             co++;
             return;
         }
-        if(c < mat.length)
+        if(c < n)
         {
-            for(int  r = 0; r<mat.length; r++)
+            for(int  r = 0; r<n; r++)
             {
                 if(check(mat,r,c))
                 {
                     mat[r][c] = 1;
-                    solqueen(mat,c+1);
+                    solqueen(mat,c+1,n);
                     mat[r][c] = 0;
                 }
             }
@@ -104,7 +104,7 @@ class Solution {
     public int totalNQueens(int n) {
         co = 0;
         int mat[][] = new int[n][n];
-        solqueen(mat,0);
+        solqueen(mat,0,mat.length);
         return co;
     }
 }
