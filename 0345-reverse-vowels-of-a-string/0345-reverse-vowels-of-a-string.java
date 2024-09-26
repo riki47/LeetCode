@@ -18,18 +18,16 @@ class Solution {
         int end = n-1;
         while(start<end)
         {
-            if(!vowelSet.contains(str[end]))
+            while(start<end && !vowelSet.contains(str[end]))
                 end--;
-            else if(!vowelSet.contains(str[start]))
+            while(start<end && !vowelSet.contains(str[start]))
                 start++;
-            else
-            {
-                char temp = str[end];
-                str[end] = str[start];
-                str[start] = temp;
-                end--;
-                start++;
-            }
+
+            char temp = str[end];
+            str[end] = str[start];
+            str[start] = temp;
+            end--;
+            start++;
         }
         return String.valueOf(str);
     }
