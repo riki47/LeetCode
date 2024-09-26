@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/riki47/LeetCode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/riki47/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/riki47/LeetCode/tree/master/0066-plus-one) |
+| [0445-add-two-numbers-ii](https://github.com/riki47/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/riki47/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/riki47/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Simulation
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/riki47/LeetCode/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/riki47/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/riki47/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0445-add-two-numbers-ii](https://github.com/riki47/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/riki47/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 ## Recursion
 |  |
@@ -222,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/riki47/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Stack
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/riki47/LeetCode/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
