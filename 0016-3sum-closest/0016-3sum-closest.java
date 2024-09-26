@@ -19,7 +19,9 @@ class Solution {
                     minval = sum;
                 }
                 if(sum>target)
+                {
                     k--;
+                }
                 else if(sum<target)
                 {
                     j++;
