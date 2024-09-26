@@ -11,6 +11,7 @@ class Solution {
             int k = n-1;
             while(j<k)
             {
+                
                 int sum = nums[i] + nums[j] + nums[k];
                 if(min>Math.abs(sum-target))
                 {
@@ -20,7 +21,10 @@ class Solution {
                 if(sum>target)
                     k--;
                 else if(sum<target)
+                {
                     j++;
+                    while(j<k && nums[j] == nums[j-1])j++;
+                }
                 else
                     return sum;
             }
