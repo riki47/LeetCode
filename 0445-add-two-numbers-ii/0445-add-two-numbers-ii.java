@@ -4,55 +4,40 @@ class Solution {
         ListNode two = l2;
         ListNode newn = new ListNode(0);
         ListNode start = newn;
-        
-        ListNode prev = null;
-        ListNode next = null;
-        ListNode curr = l1;
-        while(curr!=null)
+        Stack<Integer> s1 = new Stack<>();
+        Stack<Integer> s2 = new Stack<>();
+        while(l1 != null)
         {
-            next = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = next;
+            s1.add(l1.val);
+            l1 = l1.next;
         }
-        one = prev;
-        prev = null;
-        next = null;
-        curr = l2;
-        while(curr!=null)
+        while(l2 != null)
         {
-            next = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = next;
+            s2.add(l2.val);
+            l2 = l2.next;
         }
-        two = prev;
         int sum = 0;
         int carry = 0;
-        while(one!=null || two!=null || carry != 0)
+        Stack<Integer> s3 = new Stack<>();
+        while(!s1.isEmpty() || !s2.isEmpty() || carry != 0)
         {
             sum = 0;
-            if(one!=null && two!=null)
+            if(!s1.isEmpty() && !s2.isEmpty())
             {
-                sum = carry + one.val + two.val;
-                one = one.next;
-                two = two.next;
+                sum = carry + s1.pop() + s2.pop();
             }
-            else if(one!=null)
+            else if(!s1.isEmpty())
             {
-                sum = carry + one.val;
-                one = one.next;
+                sum = carry + s1.pop();
             }
-            else if(two!=null)
+            else if(!s2.isEmpty())
             {
-                sum = carry + two.val;
-                two = two.next;
+                sum = carry + s2.pop();
             }
             else
             {
                 sum = carry;
             }
-            
             if(sum>9)
             {
                 carry = sum/10;
@@ -60,21 +45,15 @@ class Solution {
             }
             else
                 carry = 0;
-
-            ListNode newt = new ListNode(sum);
-            newn.next = newt;
-            newn = newt;
+         
+            s3.add(sum);
         }
-        prev = null;
-        next = null;
-        curr = start.next;
-        while(curr!=null)
+        while(!s3.isEmpty())
         {
-            next = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = next;
+            ListNode newl = new ListNode(s3.pop());
+            newn.next = newl;
+            newn = newl;
         }
-        return prev;
+        return start.next;
     }
 }
