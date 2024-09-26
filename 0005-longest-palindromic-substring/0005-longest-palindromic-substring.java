@@ -36,6 +36,7 @@
 
 class Solution {
     String max= "";
+    int ml = 1;
     void palin(char str[],int middle,boolean iseven)
     {
         int i = middle-1;
@@ -47,14 +48,16 @@ class Solution {
             i--;
             j++;
         }
-        if(max.length()<j-i-1)
+        if(ml<j-i-1)
         {
+            ml = j-i-1;
             max = String.valueOf(Arrays.copyOfRange(str,i+1,j));
         }
     }
     public String longestPalindrome(String s) {
         int n = s.length();
         max = String.valueOf(s.charAt(0));
+        ml = 1;
         char str[]= s.toCharArray();
         for(int idx = 0;idx<n;idx++)
         {
