@@ -56,7 +56,6 @@ class Solution {
         int n = s.length();
         max = String.valueOf(s.charAt(0));
         char str[]= s.toCharArray();
-        boolean iseven = (n%2 == 0);
         for(int idx = 0;idx<n;idx++)
         {
             palin(str,idx,false);
