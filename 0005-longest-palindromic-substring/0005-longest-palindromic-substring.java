@@ -56,13 +56,12 @@ public class Solution {
         {
             for(int j = n-1;j>i;j--)
             {
-                if(max.length()<j-i+1)
+                if(max.length()>j-i+1)
+                    break;
+                if(palin(str,i,j))
                 {
-                    if(palin(str,i,j))
-                    {
-                        String curr = String.valueOf(Arrays.copyOfRange(str,i,j+1));
-                        max = curr;
-                    }
+                    String curr = String.valueOf(Arrays.copyOfRange(str,i,j+1));
+                    max = curr;
                 }
             }
         }
