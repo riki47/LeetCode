@@ -21,6 +21,7 @@ class Solution {
                 if(sum>target)
                 {
                     k--;
+                    while(j<k && nums[k+1] == nums[k])k--;
                 }
                 else if(sum<target)
                 {
