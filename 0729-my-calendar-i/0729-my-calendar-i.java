@@ -3,7 +3,6 @@ class MyCalendar {
 
     public MyCalendar() {
         a1 = new TreeMap<>();
-        a1.put(0,0);
     }
     
     public boolean book(int start, int end) {
