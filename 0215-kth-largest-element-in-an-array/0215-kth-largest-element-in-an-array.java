@@ -5,7 +5,7 @@
 // }
 class Solution {
     public int findKthLargest(int[] nums, int k) {
-        Queue <Integer> q1 = new PriorityQueue<>();
+        PriorityQueue <Integer> q1 = new PriorityQueue<>();
         for(int i:nums)
         {
             q1.offer(i);
