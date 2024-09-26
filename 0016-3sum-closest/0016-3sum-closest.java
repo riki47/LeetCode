@@ -21,11 +21,12 @@ class Solution {
                 if(sum>target)
                 {
                     k--;
+                    // while(j<k && k<n && nums[k] == nums[k-1])k--;
                 }
                 else if(sum<target)
                 {
                     j++;
-                    while(j<k && nums[j] == nums[j-1])j++;
+                    // while(j<k && nums[j] == nums[j-1])j++;
                 }
                 else
                     return sum;
