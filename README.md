@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/riki47/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/riki47/LeetCode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/riki47/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/riki47/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/riki47/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/riki47/LeetCode/tree/master/0283-move-zeroes) |
 | [0729-my-calendar-i](https://github.com/riki47/LeetCode/tree/master/0729-my-calendar-i) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/riki47/LeetCode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/riki47/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/riki47/LeetCode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/riki47/LeetCode/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/riki47/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/riki47/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/riki47/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/riki47/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/riki47/LeetCode/tree/master/0016-3sum-closest) |
 | [0142-linked-list-cycle-ii](https://github.com/riki47/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/riki47/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/riki47/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/riki47/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1168-duplicate-zeros](https://github.com/riki47/LeetCode/tree/master/1168-duplicate-zeros) |
