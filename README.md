@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/riki47/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/riki47/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/riki47/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0859-design-circular-deque](https://github.com/riki47/LeetCode/tree/master/0859-design-circular-deque) |
 | [0948-sort-an-array](https://github.com/riki47/LeetCode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/riki47/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1168-duplicate-zeros](https://github.com/riki47/LeetCode/tree/master/1168-duplicate-zeros) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/riki47/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/riki47/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/riki47/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/riki47/LeetCode/tree/master/0859-design-circular-deque) |
 ## Linked List
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/riki47/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0445-add-two-numbers-ii](https://github.com/riki47/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/riki47/LeetCode/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/riki47/LeetCode/tree/master/0859-design-circular-deque) |
 ## Recursion
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/riki47/LeetCode/tree/master/0859-design-circular-deque) |
 | [0954-maximum-sum-circular-subarray](https://github.com/riki47/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
