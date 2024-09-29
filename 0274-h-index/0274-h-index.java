@@ -11,7 +11,7 @@ class Solution {
             {
                 max = Math.max(max,citations[i]);
             }
-            else if(citations[i]>0)
+            else if(citations[i]>=count)
                 emptys++;
         }
         max = Math.max(emptys,max);
