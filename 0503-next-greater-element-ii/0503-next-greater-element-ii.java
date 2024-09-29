@@ -22,9 +22,7 @@ class Solution {
                     break;
             }
             if(!s1.isEmpty())
-            {
                 temp = s1.peek();
-            }
             s1.push(nums[i]);
             nums[i] = temp;
         }
