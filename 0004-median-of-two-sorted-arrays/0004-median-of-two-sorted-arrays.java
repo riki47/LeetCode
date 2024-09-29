@@ -45,11 +45,10 @@
 // }
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        double median = 0;
         int i = 0;
         int j = 0;
-        int mid = Integer.MAX_VALUE;
-        int mid1 = Integer.MAX_VALUE;
+        int mid;
+        int mid1;
         double nu1 = 0;
         double nu2 = 0;
         int n1 = nums1.length;
