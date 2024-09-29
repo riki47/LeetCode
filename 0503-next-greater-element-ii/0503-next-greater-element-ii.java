@@ -14,7 +14,7 @@ class Solution {
         }
         for(int i = nums.length-1; i >= 0; i--)
         {
-            int temp = 0;
+            int temp = -1;
             while(s1.peek() <= nums[i])
             {
                 s1.pop();
@@ -24,10 +24,6 @@ class Solution {
             if(!s1.isEmpty())
             {
                 temp = s1.peek();
-            }
-            else
-            {
-                temp = -1;
             }
             s1.push(nums[i]);
             nums[i] = temp;
