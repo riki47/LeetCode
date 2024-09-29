@@ -52,14 +52,16 @@ class Solution {
         int mid1 = Integer.MAX_VALUE;
         double nu1 = 0;
         double nu2 = 0;
-        if((nums1.length + nums2.length )%2==0)
+        int n1 = nums1.length;
+        int n2 = nums2.length;
+        if((n1+n2)%2==0)
         {
-            mid = ((nums1.length + nums2.length )/ 2)+1;
-            mid1 = ((nums1.length + nums2.length - 1)/ 2)+1;
+            mid = ((n1 + n2 )/ 2)+1;
+            mid1 = ((n1+ n2 - 1)/ 2)+1;
             int count = 0;
-            while(i<nums1.length || j<nums2.length)
+            while(i<n1 || j<n2)
             {
-                if((i<nums1.length && j<nums2.length))
+                if((i<n1 && j<n2))
                 {
                     if(nums1[i]<nums2[j])
                     {
@@ -81,7 +83,7 @@ class Solution {
                             nu2 = nums2[j-1];
                     }
                 }
-                else if(i<nums1.length)
+                else if(i<n1)
                 {
                     i++;
                     count++;
@@ -90,7 +92,7 @@ class Solution {
                     if(count == mid1)
                             nu2 = nums1[i-1];
                 }
-                else if(j<nums2.length)
+                else if(j<n2)
                 {
                     j++;
                     count++;
@@ -103,11 +105,11 @@ class Solution {
         }
         else
         {
-            mid = ((nums1.length + nums2.length )/ 2+1);
+            mid = ((n1 + n2 )/ 2+1);
             int count = 0;
-            while(i<nums1.length || j<nums2.length)
+            while(i<n1 || j<n2)
             {
-                if((i<nums1.length && j<nums2.length))
+                if((i<n1 && j<n2))
                 {
                     if(nums1[i]<nums2[j])
                     {
@@ -124,14 +126,14 @@ class Solution {
                             return (double)nums2[j-1];
                     }
                 }
-                else if(i<nums1.length)
+                else if(i<n1)
                 {
                     i++;
                     count++;
                     if(count == mid)
                         return (double)nums1[i-1];
                 }
-                else if(j<nums2.length)
+                else if(j<n2)
                 {
                     j++;
                     count++;
