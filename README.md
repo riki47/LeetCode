@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/riki47/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/riki47/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/riki47/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2502-sort-the-people](https://github.com/riki47/LeetCode/tree/master/2502-sort-the-people) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/riki47/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2755-extra-characters-in-a-string](https://github.com/riki47/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/riki47/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/riki47/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/riki47/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0432-all-oone-data-structure](https://github.com/riki47/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [2502-sort-the-people](https://github.com/riki47/LeetCode/tree/master/2502-sort-the-people) |
 | [2755-extra-characters-in-a-string](https://github.com/riki47/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/riki47/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Tree
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/riki47/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/riki47/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/riki47/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2502-sort-the-people](https://github.com/riki47/LeetCode/tree/master/2502-sort-the-people) |
 | [2755-extra-characters-in-a-string](https://github.com/riki47/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/riki47/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/riki47/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/riki47/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/riki47/LeetCode/tree/master/0948-sort-an-array) |
+| [2502-sort-the-people](https://github.com/riki47/LeetCode/tree/master/2502-sort-the-people) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/riki47/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Heap (Priority Queue)
 |  |
