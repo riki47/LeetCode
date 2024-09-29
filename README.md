@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/riki47/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/riki47/LeetCode/tree/master/0041-first-missing-positive) |
 | [0142-linked-list-cycle-ii](https://github.com/riki47/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/riki47/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/riki47/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0432-all-oone-data-structure](https://github.com/riki47/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [2502-sort-the-people](https://github.com/riki47/LeetCode/tree/master/2502-sort-the-people) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/riki47/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/riki47/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/riki47/LeetCode/tree/master/0147-insertion-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/riki47/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0432-all-oone-data-structure](https://github.com/riki47/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/riki47/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/riki47/LeetCode/tree/master/0725-split-linked-list-in-parts) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/riki47/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/riki47/LeetCode/tree/master/0016-3sum-closest) |
 | [0142-linked-list-cycle-ii](https://github.com/riki47/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/riki47/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/riki47/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/riki47/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/riki47/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
