@@ -26,7 +26,6 @@ class Solution {
             headB = headA;
             headA = temp;
         }
-        System.out.println(headA.val + " " + headB.val);
         while (headA != null || headB != null) {
             nodeMap.add(headB);
             if (nodeMap.contains(headA)) {
