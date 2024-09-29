@@ -2,19 +2,19 @@
 class Solution {
     public ListNode insertionSortList(ListNode head) {
         ListNode curr = head;
-        ArrayList <ListNode> a1 = new ArrayList<>();
+        ArrayList <Integer> a1 = new ArrayList<>();
         while(curr != null)
         {
-            a1.add(curr);
+            a1.add(curr.val);
             curr = curr.next;
         }
         for(int i = 1;i<a1.size();i++)
         {
-            ListNode key = a1.get(i);
+            int key = a1.get(i);
             int j;
             for(j = i-1;j>=0;j--)
             {
-                if(key.val<a1.get(j).val)
+                if(key<a1.get(j))
                 {
                     a1.set(j+1,a1.get(j));
                 }
@@ -22,14 +22,12 @@ class Solution {
             }
             a1.set(j+1,key);
         }
-        ListNode Dummy = new ListNode(0);
-        ListNode start = Dummy;
+        curr = head;
         for(int i = 0;i<a1.size();i++)
         {
-            Dummy.next = a1.get(i);
-            Dummy = Dummy.next;
+            curr.val = a1.get(i);
+            curr = curr.next;
         }
-        Dummy.next = null;
-        return start.next;
+        return head;
     }
 }
