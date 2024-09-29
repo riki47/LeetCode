@@ -14,7 +14,6 @@ class Solution {
                 if(s1.isEmpty())
                     break;
             }
-
             if(!s1.isEmpty())
                 h1.put(nums2[i],s1.peek());
             else
