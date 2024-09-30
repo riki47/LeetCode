@@ -28,23 +28,21 @@ public class Solution {
     public ListNode detectCycle(ListNode head) {
         ListNode turtle = head;
         ListNode rabbit = head;
-        while(rabbit != null)
+        while(rabbit != null && rabbit.next != null)
         {
-            if(rabbit.next == null)
-                return null;
             rabbit = rabbit.next.next;
             turtle = turtle.next;
             if(rabbit == turtle)
-                break;
+            {
+                rabbit = head;
+                while(rabbit != turtle)
+                {
+                    rabbit = rabbit.next;
+                    turtle = turtle.next;
+                }
+                return turtle;
+            }
         }
-        if(rabbit == null)
-            return null;
-        rabbit = head;
-        while(rabbit != turtle)
-        {
-            rabbit = rabbit.next;
-            turtle = turtle.next;
-        }
-        return turtle;
+        return null;
     }
 }
