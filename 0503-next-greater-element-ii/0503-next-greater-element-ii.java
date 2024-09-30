@@ -4,12 +4,6 @@ class Solution {
         s1.add(nums[nums.length-1]);
         for(int i = nums.length-2; i >= 0; i--)
         {
-            while(s1.peek() <= nums[i])
-            {
-                s1.pop();
-                if(s1.isEmpty())
-                    break;
-            }
             s1.push(nums[i]);
         }
         for(int i = nums.length-1; i >= 0; i--)
