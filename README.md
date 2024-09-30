@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/riki47/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/riki47/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/riki47/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0387-first-unique-character-in-a-string](https://github.com/riki47/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0432-all-oone-data-structure](https://github.com/riki47/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0496-next-greater-element-i](https://github.com/riki47/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2502-sort-the-people](https://github.com/riki47/LeetCode/tree/master/2502-sort-the-people) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/riki47/LeetCode/tree/master/0043-multiply-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/riki47/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/riki47/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/riki47/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/riki47/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/riki47/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/riki47/LeetCode/tree/master/2502-sort-the-people) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/riki47/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/riki47/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Segment Tree
 |  |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/riki47/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/riki47/LeetCode/tree/master/0859-design-circular-deque) |
 | [0954-maximum-sum-circular-subarray](https://github.com/riki47/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
