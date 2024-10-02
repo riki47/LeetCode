@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/riki47/LeetCode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/riki47/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1168-duplicate-zeros](https://github.com/riki47/LeetCode/tree/master/1168-duplicate-zeros) |
+| [1256-rank-transform-of-an-array](https://github.com/riki47/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/riki47/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/riki47/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/riki47/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/riki47/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0432-all-oone-data-structure](https://github.com/riki47/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0496-next-greater-element-i](https://github.com/riki47/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1256-rank-transform-of-an-array](https://github.com/riki47/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/riki47/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2502-sort-the-people](https://github.com/riki47/LeetCode/tree/master/2502-sort-the-people) |
 | [2755-extra-characters-in-a-string](https://github.com/riki47/LeetCode/tree/master/2755-extra-characters-in-a-string) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/riki47/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/riki47/LeetCode/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/riki47/LeetCode/tree/master/0948-sort-an-array) |
+| [1256-rank-transform-of-an-array](https://github.com/riki47/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [2502-sort-the-people](https://github.com/riki47/LeetCode/tree/master/2502-sort-the-people) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/riki47/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Heap (Priority Queue)
