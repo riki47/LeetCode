@@ -7,7 +7,7 @@ class Solution {
         {
             if(str[i] != str[j])
             {
-                if(str[i]-'a' > str[j]-'a')
+                if(str[i] > str[j])
                     str[i] = str[j];
                 else
                     str[j] = str[i];
