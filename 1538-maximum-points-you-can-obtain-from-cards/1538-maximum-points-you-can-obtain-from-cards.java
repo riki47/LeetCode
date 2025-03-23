@@ -5,12 +5,13 @@ class Solution {
         int j = 0;
         int max = 0;
         int sum = 0;
+        int start = n-k;
         while(j < 2*k)
         {
-            sum += cardScore[(n-k+j)%n];
+            sum += cardScore[(start + j)%n];
             if(j-i+1 > k)
             {
-              sum -= cardScore[(n-k+i)%n];
+              sum -= cardScore[(start + i)%n];
               i++;
             }
             j++;
