@@ -1,16 +1,16 @@
 class Solution {
     public int maxScore(int[] cardScore, int k) {
         int n = cardScore.length;
-        int i = n-k;
-        int j = n-k;
+        int i = 0;
+        int j = 0;
         int max = 0;
         int sum = 0;
-        while(j < n+k)
+        while(j < 2*k)
         {
-            sum += cardScore[j%n];
+            sum += cardScore[(n-k+j)%n];
             if(j-i+1 > k)
             {
-              sum -= cardScore[i%n];
+              sum -= cardScore[(n-k+i)%n];
               i++;
             }
             j++;
