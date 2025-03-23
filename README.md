@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/riki47/LeetCode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/riki47/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/riki47/LeetCode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/riki47/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/riki47/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/riki47/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0729-my-calendar-i](https://github.com/riki47/LeetCode/tree/master/0729-my-calendar-i) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/riki47/LeetCode/tree/master/0455-assign-cookies) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/riki47/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/riki47/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Design
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/riki47/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/riki47/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/riki47/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0455-assign-cookies](https://github.com/riki47/LeetCode/tree/master/0455-assign-cookies) |
 | [1168-duplicate-zeros](https://github.com/riki47/LeetCode/tree/master/1168-duplicate-zeros) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/riki47/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Sorting
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/riki47/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/riki47/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/riki47/LeetCode/tree/master/0274-h-index) |
+| [0455-assign-cookies](https://github.com/riki47/LeetCode/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/riki47/LeetCode/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/riki47/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/riki47/LeetCode/tree/master/1256-rank-transform-of-an-array) |
