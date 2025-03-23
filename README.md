@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/riki47/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/riki47/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/riki47/LeetCode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/riki47/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/riki47/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/riki47/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/riki47/LeetCode/tree/master/0189-rotate-array) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/riki47/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/riki47/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/riki47/LeetCode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/riki47/LeetCode/tree/master/0078-subsets) |
 ## Counting
 |  |
 | ------- |
@@ -334,5 +336,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/riki47/LeetCode/tree/master/0078-subsets) |
 | [0260-single-number-iii](https://github.com/riki47/LeetCode/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
