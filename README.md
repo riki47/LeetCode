@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/riki47/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/riki47/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0859-design-circular-deque](https://github.com/riki47/LeetCode/tree/master/0859-design-circular-deque) |
+| [0890-lemonade-change](https://github.com/riki47/LeetCode/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/riki47/LeetCode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/riki47/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1168-duplicate-zeros](https://github.com/riki47/LeetCode/tree/master/1168-duplicate-zeros) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/riki47/LeetCode/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/riki47/LeetCode/tree/master/0890-lemonade-change) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/riki47/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/riki47/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Design
