@@ -6,7 +6,8 @@ class Solution {
         int max = 0;
         int sum = 0;
         int start = n-k;
-        while(j < 2*k)
+        int tra= 2*k;
+        while(j < tra)
         {
             sum += cardScore[(start + j)%n];
             if(j-i+1 > k)
