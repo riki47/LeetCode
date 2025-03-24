@@ -1,19 +1,18 @@
 class Solution {
-    public int characterReplacement(String si, int k) {
+    public int characterReplacement(String s, int k) {
         int i = 0;
         int j = 0;
-        char s[] = si.toCharArray(); 
-        int n = si.length();
+        int n = s.length();
         int max = 0;
         int maxf = 0;
-        HashMap <Character, Integer> h1 = new HashMap<>();
+        int h1[] = new int[26];
         while(j<n)
         {
-            h1.put(s[j],h1.getOrDefault(s[j],0)+1);
-            maxf = Math.max(maxf,h1.get(s[j]));
+            h1[s.charAt(j)-'A']++;
+            maxf = Math.max(maxf,h1[s.charAt(j)-'A']);
             if((j-i+1)-maxf>k)
             {
-                h1.put(s[i],h1.get(s[i])-1);
+                h1[s.charAt(i)-'A']--;
                 i++;
             }
             if((j-i+1)-maxf <= k)
