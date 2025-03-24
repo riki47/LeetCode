@@ -13,8 +13,7 @@ class Solution {
                 h1[s.charAt(i)-'A']--;
                 i++;
             }
-            if((j-i+1)-maxf<=k)
-                max = Math.max(max,j-i+1);
+            max = Math.max(max,j-i+1);
             j++;
         }
         return max;
