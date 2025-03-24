@@ -1,10 +1,8 @@
 class Solution {
     public int characterReplacement(String s, int k) {
-        int i = 0;
-        int j = 0;
+        int i = 0, j = 0;
+        int max = 0, maxf = 0;
         int n = s.length();
-        int max = 0;
-        int maxf = 0;
         int h1[] = new int[26];
         while(j<n)
         {
