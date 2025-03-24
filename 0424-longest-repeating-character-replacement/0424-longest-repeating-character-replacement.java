@@ -14,8 +14,6 @@ class Solution {
             if((j-i+1)-maxf>k)
             {
                 h1.put(s[i],h1.get(s[i])-1);
-                if(h1.get(s[i]) == 0)
-                    h1.remove(s[i]);
                 i++;
             }
             if((j-i+1)-maxf <= k)
