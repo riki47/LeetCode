@@ -24,31 +24,28 @@
  * }
  */
 class Solution {
-    ListNode middle(ListNode head)
+    ListNode middle(ListNode start,ListNode end)
     {
-        ListNode slow = head;
-        ListNode fast = head.next;
-        while(fast != null && fast.next!=null && fast.next.next !=null)
+        ListNode slow = start;
+        ListNode fast = start;
+        while(fast != end && fast.next != end)
         {
             fast = fast.next.next;
             slow = slow.next;
         }
-        System.out.println(slow.val);
         return slow;	    
     }
-    TreeNode sort(TreeNode thead, ListNode head)
+    TreeNode sort(TreeNode thead, ListNode start, ListNode end)
     {
-        if(head == null) return null;
-        ListNode mid = middle(head);
-        if(mid.next == null)return new TreeNode(mid.val);
-        TreeNode tHead = new TreeNode(mid.next.val);
-        tHead.right = sort(tHead.right,mid.next.next);
-        mid.next = null;
-        tHead.left = sort(tHead.left,head);
+        if(start == end) return null;
+        ListNode mid = middle(start,end);
+        TreeNode tHead = new TreeNode(mid.val);
+        tHead.left = sort(tHead.left,start,mid);
+        tHead.right = sort(tHead.right,mid.next,end);
         return tHead;
     }
     public TreeNode sortedListToBST(ListNode head) {
-        return sort(new TreeNode(-1),head);
+        return sort(new TreeNode(-1),head,null);
     }
 }
 
