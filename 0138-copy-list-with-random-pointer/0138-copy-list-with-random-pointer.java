@@ -15,10 +15,7 @@ class Node {
 //[[7,null],[13,0],[11,4],[10,2],[1,0]]
 class Solution {
     public Node copyRandomList(Node head) {
-        if(head == null )
-            return null;
         Node temp = head;
-
         //1st step
         while(temp != null)
         {
@@ -32,16 +29,14 @@ class Solution {
         // temp = head;
         // h
         // 7 7 13 13 11 10 10 1 1
-        // r   t
-        //   c -- c
+        //      t   
+        //   
         temp = head;
-        Node ctemp = head.next;
         while(temp != null)
         {
-            ctemp = temp.next;
             if(temp.random != null)
-                ctemp.random = temp.random.next;
-            temp = ctemp.next;
+                temp.next.random = temp.random.next;
+            temp = temp.next.next;
             System.out.println("Asd");
         }
 
