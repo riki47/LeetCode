@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/riki47/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/riki47/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/riki47/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/riki47/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/riki47/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/riki47/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/riki47/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/riki47/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/riki47/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/riki47/LeetCode/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/riki47/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/riki47/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/riki47/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/riki47/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/riki47/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/riki47/LeetCode/tree/master/0890-lemonade-change) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/riki47/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
