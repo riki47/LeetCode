@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/riki47/LeetCode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/riki47/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/riki47/LeetCode/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/riki47/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/riki47/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/riki47/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/riki47/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/riki47/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/riki47/LeetCode/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/riki47/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/riki47/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0954-maximum-sum-circular-subarray](https://github.com/riki47/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/riki47/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/riki47/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/riki47/LeetCode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/riki47/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/riki47/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/riki47/LeetCode/tree/master/0890-lemonade-change) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/riki47/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/riki47/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/riki47/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/riki47/LeetCode/tree/master/0274-h-index) |
+| [0435-non-overlapping-intervals](https://github.com/riki47/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/riki47/LeetCode/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/riki47/LeetCode/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/riki47/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
