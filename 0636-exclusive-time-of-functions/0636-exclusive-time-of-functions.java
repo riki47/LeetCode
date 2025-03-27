@@ -1,7 +1,7 @@
 class Solution {
     public int[] exclusiveTime(int n, List<String> logs) {
         int ans[] = new int[n];
-        Stack <int[]> st = new Stack<>();
+        Deque <int[]> st = new ArrayDeque<>();
         for(String i : logs)
         {
             String split[] = i.split(":");
