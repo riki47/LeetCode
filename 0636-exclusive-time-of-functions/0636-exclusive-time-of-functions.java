@@ -8,7 +8,6 @@ class Solution {
             int funId = Integer.parseInt(split[0]);
             int status = (split[1].compareTo("start") == 0)?0:1;
             int timeStamp = Integer.parseInt(split[2]);
-            System.out.println(funId + " " +status +  " " + timeStamp);
             //start
             if(status == 0)
             {
@@ -19,7 +18,6 @@ class Solution {
                 int curr[] = st.pop();
                 int start = curr[1];
                 int execTime = timeStamp - start + 1;
-                System.out.println(execTime);
                 ans[funId] += execTime;
                 if(!st.isEmpty())
                     ans[st.peek()[0]] -= execTime;
