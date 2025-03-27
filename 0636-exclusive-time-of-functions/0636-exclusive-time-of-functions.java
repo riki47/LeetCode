@@ -4,10 +4,12 @@ class Solution {
         Deque <int[]> st = new ArrayDeque<>();
         for(String i : logs)
         {
-            String split[] = i.split(":");
-            int funId = Integer.parseInt(split[0]);
-            int status = (split[1].compareTo("start") == 0)?0:1;
-            int timeStamp = Integer.parseInt(split[2]);
+            int firstColon = i.indexOf(':');
+            int lastColon = i.lastIndexOf(':');
+            
+            int funId = Integer.parseInt(i.substring(0, firstColon));
+            int status = (i.substring(firstColon + 1, lastColon).compareTo("start") == 0)?0:1;
+            int timeStamp = Integer.parseInt(i.substring(lastColon + 1));
             //start
             if(status == 0)
             {
