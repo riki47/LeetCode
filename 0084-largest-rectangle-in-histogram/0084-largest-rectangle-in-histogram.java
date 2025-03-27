@@ -51,8 +51,6 @@ class Solution {
         int ns[] = nse(heights);
         int ps[] = pse(heights);
         int n = heights.length;
-        for(int i = 0;i<n;i++)
-            System.out.println(ns[i] + " " + ps[i]);
         int max = 0;
         for(int i = 0;i<n;i++)
         {
