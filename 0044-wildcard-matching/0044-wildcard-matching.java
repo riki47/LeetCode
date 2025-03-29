@@ -11,11 +11,12 @@ class Solution {
             }
             return true;
         }
+        if(i == n-1 && j == m-1 && (s1.charAt(i) == s2.charAt(j) || s2.charAt(j) == '*' || s2.charAt(j) == '?'))
+            return true;
         if(j>=m) return i>=n;
         if(dp[i][j] != -1)return (dp[i][j] == 1);
         
-        if(i == n-1 && j == m-1 && (s1.charAt(i) == s2.charAt(j) || s2.charAt(j) == '*' || s2.charAt(j) == '?'))
-            return true;
+        
 
         if(s2.charAt(j) == '?' || s2.charAt(j) == s1.charAt(i))
         {
