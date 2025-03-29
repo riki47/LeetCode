@@ -11,8 +11,7 @@ class Solution {
             }
             return true;
         }
-        if(i>=n) return false;
-        if(j>=m) return false;
+        if(j>=m) return i>=n;
         if(dp[i][j] != -1)return (dp[i][j] == 1);
         
         if(i == n-1 && j == m-1 && (s1.charAt(i) == s2.charAt(j) || s2.charAt(j) == '*' || s2.charAt(j) == '?'))
@@ -25,7 +24,7 @@ class Solution {
         }
         if(s2.charAt(j) == '*')
         {
-            dp[i][j] = (((recur(s1,s2,i+1,j,dp) || recur(s1,s2,i+1,j+1,dp) || recur(s1,s2,i,j+1,dp)) == true)?1:0);
+            dp[i][j] = (((recur(s1,s2,i+1,j,dp) || recur(s1,s2,i,j+1,dp)) == true)?1:0);
             return (dp[i][j] == 1);
         }
         else 
