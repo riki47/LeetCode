@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/riki47/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/riki47/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0450-delete-node-in-a-bst](https://github.com/riki47/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/riki47/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/riki47/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/riki47/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/riki47/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/riki47/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/riki47/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0450-delete-node-in-a-bst](https://github.com/riki47/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0729-my-calendar-i](https://github.com/riki47/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/riki47/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/riki47/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/riki47/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/riki47/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0450-delete-node-in-a-bst](https://github.com/riki47/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/riki47/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/riki47/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/riki47/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
