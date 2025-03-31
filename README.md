@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/riki47/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1207-delete-nodes-and-return-forest](https://github.com/riki47/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/riki47/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1324-where-will-the-ball-fall](https://github.com/riki47/LeetCode/tree/master/1324-where-will-the-ball-fall) |
 | [1370-count-number-of-nice-subarrays](https://github.com/riki47/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/riki47/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/riki47/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/riki47/LeetCode/tree/master/0043-multiply-strings) |
+| [1324-where-will-the-ball-fall](https://github.com/riki47/LeetCode/tree/master/1324-where-will-the-ball-fall) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/riki47/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Greedy
 |  |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/riki47/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1324-where-will-the-ball-fall](https://github.com/riki47/LeetCode/tree/master/1324-where-will-the-ball-fall) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/riki47/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/riki47/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/riki47/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
