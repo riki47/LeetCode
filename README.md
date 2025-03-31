@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/riki47/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/riki47/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1168-duplicate-zeros](https://github.com/riki47/LeetCode/tree/master/1168-duplicate-zeros) |
+| [1207-delete-nodes-and-return-forest](https://github.com/riki47/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/riki47/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/riki47/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/riki47/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/riki47/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/riki47/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/riki47/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/riki47/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/riki47/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/riki47/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/riki47/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/riki47/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/riki47/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/riki47/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/riki47/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/riki47/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/riki47/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search Tree
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/riki47/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/riki47/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/riki47/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/riki47/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/riki47/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/riki47/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/riki47/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0386-lexicographical-numbers](https://github.com/riki47/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/riki47/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/riki47/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/riki47/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Trie
 |  |
