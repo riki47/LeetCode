@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/riki47/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/riki47/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/riki47/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/riki47/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/riki47/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/riki47/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/riki47/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/riki47/LeetCode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/riki47/LeetCode/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/riki47/LeetCode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/riki47/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/riki47/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/riki47/LeetCode/tree/master/0890-lemonade-change) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/riki47/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/riki47/LeetCode/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/riki47/LeetCode/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/riki47/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/riki47/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/riki47/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/riki47/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/riki47/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/riki47/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/riki47/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Sliding Window
