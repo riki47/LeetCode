@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/riki47/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/riki47/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/riki47/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/riki47/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/riki47/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/riki47/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/riki47/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/riki47/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/riki47/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/riki47/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/riki47/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/riki47/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0386-lexicographical-numbers](https://github.com/riki47/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/riki47/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/riki47/LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/riki47/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/riki47/LeetCode/tree/master/0055-jump-game) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/riki47/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/riki47/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/riki47/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0954-maximum-sum-circular-subarray](https://github.com/riki47/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
