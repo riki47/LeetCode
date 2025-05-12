@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/riki47/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/riki47/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/riki47/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/riki47/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/riki47/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/riki47/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/riki47/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/riki47/LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/riki47/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/riki47/LeetCode/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/riki47/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/riki47/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/riki47/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/riki47/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/riki47/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/riki47/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1324-where-will-the-ball-fall](https://github.com/riki47/LeetCode/tree/master/1324-where-will-the-ball-fall) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/riki47/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/riki47/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/riki47/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/riki47/LeetCode/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/riki47/LeetCode/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/riki47/LeetCode/tree/master/0445-add-two-numbers-ii) |
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/riki47/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/riki47/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/riki47/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/riki47/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/riki47/LeetCode/tree/master/0503-next-greater-element-ii) |
