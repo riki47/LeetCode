@@ -31,7 +31,7 @@ class Solution {
         TreeNode left = find(node.left , start);
         TreeNode right = find(node.right, start);
 
-        if(left != null )
+        if(left != null)
             return left;
         else
             return right;
