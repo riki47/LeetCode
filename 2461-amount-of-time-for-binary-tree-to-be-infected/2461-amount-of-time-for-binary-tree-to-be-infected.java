@@ -31,12 +31,10 @@ class Solution {
         TreeNode left = find(node.left , start);
         TreeNode right = find(node.right, start);
 
-        if(left != null && left.val == start)
+        if(left != null )
             return left;
-        else if(right != null)
-            return right;
         else
-            return null;
+            return right;
         
     }
     public int amountOfTime(TreeNode root, int start) {
