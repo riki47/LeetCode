@@ -35,7 +35,6 @@ class Solution {
             return left;
         else
             return right;
-        
     }
     public int amountOfTime(TreeNode root, int start) {
         Queue<TreeNode> q = new LinkedList<>();
