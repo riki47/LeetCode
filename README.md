@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/riki47/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/riki47/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/riki47/LeetCode/tree/master/0636-exclusive-time-of-functions) |
+| [0658-find-k-closest-elements](https://github.com/riki47/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0729-my-calendar-i](https://github.com/riki47/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/riki47/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/riki47/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/riki47/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/riki47/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/riki47/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/riki47/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0729-my-calendar-i](https://github.com/riki47/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/riki47/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/riki47/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/riki47/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/riki47/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/riki47/LeetCode/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/riki47/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1168-duplicate-zeros](https://github.com/riki47/LeetCode/tree/master/1168-duplicate-zeros) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/riki47/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Sorting
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/riki47/LeetCode/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/riki47/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/riki47/LeetCode/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/riki47/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/riki47/LeetCode/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/riki47/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/riki47/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/riki47/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/riki47/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/riki47/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/riki47/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/riki47/LeetCode/tree/master/0948-sort-an-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/riki47/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
@@ -455,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/riki47/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/riki47/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/riki47/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0658-find-k-closest-elements](https://github.com/riki47/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0940-fruit-into-baskets](https://github.com/riki47/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/riki47/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/riki47/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
